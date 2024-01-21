@@ -157,6 +157,7 @@ h4 {
     height: 100vh;
     min-height: 60rem;
     */
+    background-image: url(../img/logo-principal.png);
     background-position: center center;
     background-size: cover;
     height: 100vh;
